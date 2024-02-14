@@ -47,6 +47,10 @@
 				"Win64",
 				"Linux"
 			]
+		},
+		{
+			"Name": "PixelStreaming",
+			"Enabled": true
 		}
 	]
 }
